@@ -14,11 +14,11 @@ A web-based Parking Management System that allows users to manage parking slots 
 
 # Demo Preview 📸
 
-# Image of slot not booking
+# without slot booking Image
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/1fce9d6e-7d5d-47df-9e59-7d8da96ccf6b)
 
-# Image of slot booking
+# slot booking Image
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/7d6b4e7f-7c88-4c88-b5a6-53512becaa10)
 
@@ -47,9 +47,13 @@ A web-based Parking Management System that allows users to manage parking slots 
 # parking-management-system/
 │
 ├── index.html       # Main HTML file
+
 ├── styles.css       # CSS file for styling
+
 ├── script.js        # JavaScript file for interactivity
+
 ├── parking.webp     # Background image
+
 └── README.md        # Project documentation
 
 # Future Enhancements 🚀
